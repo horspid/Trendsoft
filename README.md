@@ -1,4 +1,4 @@
-# [Перейти на Trendsoft](https://gudovchshikov.github.io/Trendsoft/)
+# [Перейти на Trendsoft](https://horspid.github.io/Trendsoft/)
 При разработке использовалось:
 * BEM tecnology ( classes )
 * HTML
